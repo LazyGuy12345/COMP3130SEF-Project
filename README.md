@@ -8,7 +8,7 @@ COMP3130SEF Project
 | Lau Chun Kit | 13897100 |
 | Chong Tsz Ho | 13990354 |
 
-## Running the App
+## How to Run
 
 ### Prerequisites
 
