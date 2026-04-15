@@ -2,5 +2,8 @@
 COMP3130SEF Project
 
 ## Project Members
-- Lau Chun Kit 13897100
-- Chong Tsz Ho 13990354
+
+| Name | Student ID |
+|------|-----------|
+| Lau Chun Kit | 13897100 |
+| Chong Tsz Ho | 13990354 |
