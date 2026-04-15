@@ -1,0 +1,46 @@
+# Gradle
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+*.gradle.kts.bak
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Android Studio
+.DS_Store
+*.apk
+*.jks
+*.keystore
+
+# Build artifacts
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Local environment
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Backup files
+*.bak
+*~
+
+# Dependencies
+.m2/
