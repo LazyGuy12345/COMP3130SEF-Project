@@ -57,9 +57,3 @@ If you don't have a physical device:
 1. Open **Android Device Manager** in Android Studio
 2. Create or start an emulator with API level 24 or higher
 3. Run the app using the steps above
-
-### Minimum Requirements
-
-- **Minimum SDK**: Android 7.0 (API 24)
-- **Target SDK**: Android 14 (API 34)
-- **Java Version**: 17
